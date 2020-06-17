@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_crash_course",
+  "version": "1.0.0",
+  "description": "NodeJs Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviola/nodejs_crash_course.git"
+  },
+  "author": "daviola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviola/nodejs_crash_course/issues"
+  },
+  "homepage": "https://github.com/daviola/nodejs_crash_course#readme",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
